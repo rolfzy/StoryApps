@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Membaca Berbagai pengalaman di dunia !</string>
+    <string name="title_welcome_page">Selamat datang di StoryAp!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not8karater">"Password tidak boleh kurang dari 8 karakter"</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Temukan berbagai pengalaman cerita, Baca atau tulis pengalaman mu !</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Lihat Story Mereka :) .</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_bot">bot</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="upload_failed">Gagal Unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="empty_description_warning">Deskripsi Tidak Boleh Kosong !.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba Lagi</string>
+
+
+</resources>

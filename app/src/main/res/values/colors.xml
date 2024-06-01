@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy">#2D3D4F</color>
+    <color name="navyDark">#FF014073</color>
+    <color name="navysky">#FFB0CADB</color>
+    <color name="navycant">#989FA5</color>
+    <color name="greens">#8DECB4</color>
+
+
+
+</resources>
