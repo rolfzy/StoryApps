@@ -49,18 +49,16 @@ class StoryRepository private constructor(
     fun getPaging(token: String): Flow<PagingData<ListStoryItem>> {
         return Pager(
             config = PagingConfig(
-                pageSize = 20,
+                pageSize = 5,
                 enablePlaceholders = false
             ),
             pagingSourceFactory = { PagingSource(apiService,token) }
         ).flow
 
+
 }
 
-    suspend fun getStories(token: String, page: Int): StoryResponse {
-        val apiServiceWithToken = ApiConfig.getApiService()
-        return apiServiceWithToken.getStories(token)
-    }
+
 
     companion object {
         @Volatile
